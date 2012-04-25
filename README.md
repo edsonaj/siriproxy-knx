@@ -1,7 +1,11 @@
 Siri Proxy KNX Plugin
 =====================
 
+<<<<<<< HEAD:README
 **ABOUT**
+=======
+##ABOUT
+>>>>>>> README edited:README.md
 
 The siriproxy-knx is a SiriProxy plugin that allows you to control KNX devices in a BUS using a KNXnet/IP Tunneling Device.
 
@@ -9,7 +13,11 @@ To use this plugin you need to build a JAVA file that will control the devices u
 
 Be sure to have the Siri Proxy up and running before installing this plugin.
 
+<<<<<<< HEAD:README
 **USAGE**
+=======
+##USAGE
+>>>>>>> README edited:README.md
 
 In this example we have 4 basic commands:
 
